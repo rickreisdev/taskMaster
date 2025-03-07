@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Tarefas
+# TaskMaster - Sistema de Gerenciamento de Tarefas
 
 ## Descrição do Projeto
 Uma aplicação fullstack de gerenciamento de tarefas desenvolvida com NestJS, React, Prisma e PostgreSQL, permitindo que usuários criem, editem, excluam e marquem tarefas como concluídas.
