@@ -23,8 +23,8 @@ Uma aplicação fullstack de gerenciamento de tarefas desenvolvida com NestJS, R
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-tarefas.git
-cd gerenciador-tarefas
+git clone https://github.com/rickreisdev/taskMaster
+cd taskMaster
 ```
 
 ### Configurar Backend
